@@ -1,53 +1,110 @@
-# BHAVYA BHOSALE
 
+# Bhavya Bhosale
 
+**Contact Information:**
+- Email: [bhavyabhosale1815@gmail.com](mailto:bhavyabhosale1815@gmail.com)
+- GitHub: [github.com/bhavyabhosale](https://github.com/bhavyabhosale)
+- Portfolio: [bhavyabhosale.pythonanywhere.com](https://bhavyabhosale.pythonanywhere.com)
+- LinkedIn: [linkedin.com/in/bhavya-bhosale](https://linkedin.com/in/bhavya-bhosale)
+- Location: Karnataka, Bangalore, 560098
 
 ## Objective
-To achieve high career growth through continuous hard work and learning in a progressive organization that provides scope to develop my qualities, self-motivated me with challenging scenarios. In the long run, I aim to be more confident and better, always utilizing my skills towards the growth of the organization.
+A highly motivated software engineer with hands-on experience in various programming languages, frameworks, and technologies. Seeking to contribute to innovative projects at a forward-thinking organization by leveraging my skills in software development, AI/ML, and FSD to drive impactful solutions and enhance user experiences.
 
 ## Experience
 
-### Machine Learning with AI
-Microsoft and Knowledge Solutions India
-- Completed a 6-week Machine Learning internship with Microsoft through Knowledge Solutions India in 2023, focusing on Python programming.
-- Undertook a project on logistic regression and k-means clustering, gaining hands-on experience.
-- Proficient in applying machine learning techniques, particularly in Python, and translating theory into practical solutions.
-- Equipped with essential skills for a data science career, fostering problem-solving abilities and analytical thinking through real-world applications.
+### Machine Learning Intern
+**Microsoft and Knowledge Solutions India**  
+*Jan 2023 – Mar 2023*
+- Completed a 6-week internship focused on Python programming, logistic regression, and k-means clustering.
+- Gained hands-on experience with data preprocessing and model evaluation, enhancing problem-solving abilities.
+- Collaborated with Microsoft for access to industry-leading resources.
 
-### Web Developer
-TechnoHacks Edu Tech
-- Completed a dynamic 4-week internship program focused on Web Development at TechnoHacks Edu Tech company in 2023.
-- Developed practical skills and knowledge in HTML, CSS, and JavaScript, applying them through hands-on projects to develop responsive and interactive web pages.
-- Proficient in front-end development, including content structure, styling, and interactivity, preparing for further growth in web development.
+### Web Development Intern
+**TechnoHacks Edu Tech**  
+*Oct 2023 – Nov 2023*
+- Completed a 4-week internship focused on HTML, CSS, and JavaScript.
+- Developed responsive and interactive web pages, showcasing proficiency in front-end development.
 
-### C# Developer
-SpreadTech Solutions
-- Completed an intensive 4-week internship at Spread Tech Solutions, delving into C# development and gaining practical skills.
-- Explored C programming, covering object-oriented programming, data structures, and application development.
-- Designed, developed, and debugged applications in both C# and C, optimizing code and collaborating closely with peers.
+### C# Developer Intern
+**SpreadTech Solutions**  
+*Oct 2023 – Nov 2023*
+- Completed a 4-week internship gaining practical skills in C# and C programming.
+- Designed, developed, and debugged applications, optimizing code through real-world applications.
 
 ### Java Intern
-Code Alpha
-- Completed a 12-week internship at Code Alpha as a Java Intern, gaining extensive hands-on experience and practical knowledge in Java programming.
-- Deepened understanding of Java fundamentals and best practices, applying concepts to real-world scenarios and showcasing proficiency in object-oriented programming, data structures, and algorithm implementation.
+**Code Alpha**  
+*Oct 2023 – Jan 2024*
+- Completed a 12-week internship gaining extensive hands-on experience in Java programming.
+- Developed a portfolio of projects, demonstrating skills in object-oriented programming, data structures, and algorithm implementation.
 
 ## Education
-- 10th: KLE CBSE English medium school Nipani, 88.8%
-- PUC: KLE Prerana PU college Hubli, 95.83%
-- B.Tech in Computer Science and Engineering: Global Academy of Technology, Bangalore, 9.54 CGPA
+
+### Global Academy of Technology, Bangalore, India
+**Bachelor of Engineering in Computer Science and Engineering**  
+*2021 – 2025*  
+- Current CGPA: 9.45/10
+
+### KLE Prerana PU College, Hubli, India
+**PUC**  
+*2019 – 2021*  
+- Percentage: 95.83%
+
+### KLE CBSE English Medium School, Nipani, India
+**10th**  
+*2019*  
+- Percentage: 88.8%
+
+## Projects
+
+### HeartHealth AI: Predicting Heart Disease with Advanced Analytics
+- Developed predictive models using AI to analyze health parameters and assess heart disease risk.
+
+### AI Chatbot
+- Developed an advanced chatbot using LLM techniques, text embeddings, and retrieval-augmented generation (RAG).
+- Integrated with Discord, Telegram, and a web interface using Python, Google Gemma, Faiss, and Streamlit.
+
+### ANALYZER by Revolvers: AI-Driven Sentiment and Emotion Analysis Tool
+- Developed a cutting-edge tool using advanced AI models to analyze sentiment, emotions, and PG-rated content in text, images, and videos.
+
+### AgriAI: Integrated Agricultural Intelligence Suite
+- Implemented machine learning algorithms and web development for crop management and disease detection.
+
+### AI Article Summarizer Website
+- Built with React.js, TypeScript, Redux Toolkit, and Tailwind CSS.
+- Summarizes articles using OpenAI with one click.
+- Includes history saving, copy-to-clipboard, and advanced RTK Query API requests.
+
+### ELearning Website
+- Developed an ELearning platform with user authentication, course management, and virtual classrooms.
+- Utilized HTML, CSS, JavaScript, and Node.js.
+
+### Crafting a Portfolio Website
+- Developed a portfolio website using HTML, CSS, JavaScript, and Python to showcase skills and projects.
 
 ## Skills
-- Python Programming
-- C Programming
-- Java Programming
-- C++ Programming
-- Data Structures and Algorithms
-- Artificial Intelligence, Machine Learning, and Data Analytics
-- Full Stack Web Development
-- Cloud Computing
-- SQL
-- MS Applications
 
+### Programming Languages
+- Python, C, Java, C++
+
+### Frameworks
+- TensorFlow, Keras, Flask, Express.js, React.js, Streamlit, CMR, Apex
+
+### Database
+- MySQL, PostgreSQL, Firebase, MongoDB
+
+### Technologies
+- GenAI, Data Science, Machine Learning, Artificial Intelligence, Neural Networks, Deep Learning, DevOps, NLP, Blockchain, Data Structure and Algorithms, Cloud Computing (AWS, Docker)
+
+### Tools
+- Git, GitHub, Jupyter Notebooks, VS Code, PyCharm, Sublime Text, REST APIs, Bash, Unix, Linux, IBM Tools, Salesforce Tools
+
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js, Next.js
+- **Backend:** Node.js, Express.js
+
+### Soft Skills
+- Leadership, Problem-Solving, Communication, Adaptability, Teamwork, Attention to Detail
 
 ## Skills
 <p align="center">
@@ -76,30 +133,21 @@ Code Alpha
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyabhosale&theme=tokyonight)
 
 
-## Projects
-- HeartHealth AI: Predicting Heart Disease with Advanced Analytics
-- Image Classification Predictions: Unveiling the Power of AI
-- Crafting a Portfolio Website
-- AgriAI: Integrated Agricultural Intelligence Suite
-
 ## Achievements & Awards
-- Table Tennis State TT College Captain (Represented college in VTU)
-- Judo (South Zone)
-- Taekwondo (District)
-- English Easy Writing (National)
-- National Level Hackathon Participation
-- TCS Techbytes Quiz (Represented college)
+- Taekwondo State Level Bronze (2024)
+- Alkimi, Kensaltensi Hackathon 3rd Place (2024)
+- TCS TechBytes Quiz (Represented College, 2023)
+- English Essay Writing National Level (2020)
+- National Level Hackathon Participation (2021)
+- Table Tennis State Level (2018) and College Captain (Represented college in VTU 2021 - 2025)
+- Judo South Zone (2016)
+
+## Languages
+- English, Hindi, Marathi, Kannada
 
 ## Activities
 - Placement Coordinator of College
+- CSE dept Hackathon Team Lead
 - NSS Candidate
-- Childline India Foundation
-
-## Languages
-- English
-- Hindi
-- Marathi
-- Kannada
-
-## Additional Information
-- Portfolio Website: [Bhavya Bhosale Portfolio](https://bhavyabhosale.pythonanywhere.com)
+- Coordinator for various college events
+- Childline India foundation
