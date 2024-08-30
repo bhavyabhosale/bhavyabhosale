@@ -1,153 +1,65 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-# Bhavya Bhosale
+<h1 align="center">Hi 👋, I'm Bhavya Bhosale</h1>
+<p align="center">A passionate software engineer with expertise in Full Stack Development, Machine Learning, and AI. I enjoy working on innovative projects that impact user experiences and drive solutions with a blend of technology and creativity.</p>
 
-**Contact Information:**
-- Email: [bhavyabhosale1815@gmail.com](mailto:bhavyabhosale1815@gmail.com)
-- GitHub: [github.com/bhavyabhosale](https://github.com/bhavyabhosale)
-- Portfolio: [bhavyabhosale.pythonanywhere.com](https://bhavyabhosale.pythonanywhere.com)
-- LinkedIn: [linkedin.com/in/bhavya-bhosale](https://linkedin.com/in/bhavya-bhosale)
-- Location: Karnataka, Bangalore, 560098
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+</div>
 
-## Objective
-A highly motivated software engineer with hands-on experience in various programming languages, frameworks, and technologies. Seeking to contribute to innovative projects at a forward-thinking organization by leveraging my skills in software development, AI/ML, and FSD to drive impactful solutions and enhance user experiences.
+<br>
 
-## Experience
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="50" height="50" />
+</div>
 
-### Machine Learning Intern
-**Microsoft and Knowledge Solutions India**  
-*Jan 2023 – Mar 2023*
-- Completed a 6-week internship focused on Python programming, logistic regression, and k-means clustering.
-- Gained hands-on experience with data preprocessing and model evaluation, enhancing problem-solving abilities.
-- Collaborated with Microsoft for access to industry-leading resources.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### Web Development Intern
-**TechnoHacks Edu Tech**  
-*Oct 2023 – Nov 2023*
-- Completed a 4-week internship focused on HTML, CSS, and JavaScript.
-- Developed responsive and interactive web pages, showcasing proficiency in front-end development.
+- 🔭 Currently working on **AI and Full Stack Development Projects**
 
-### C# Developer Intern
-**SpreadTech Solutions**  
-*Oct 2023 – Nov 2023*
-- Completed a 4-week internship gaining practical skills in C# and C programming.
-- Designed, developed, and debugged applications, optimizing code through real-world applications.
+- 🌱 Learning **Advanced AI techniques and Cloud Computing**
 
-### Java Intern
-**Code Alpha**  
-*Oct 2023 – Jan 2024*
-- Completed a 12-week internship gaining extensive hands-on experience in Java programming.
-- Developed a portfolio of projects, demonstrating skills in object-oriented programming, data structures, and algorithm implementation.
+- 💬 Ask me about **Python, React, Machine Learning, and DevOps**
 
-## Education
+- 📫 Reach me at **bhavyabhosale1815@gmail.com**
 
-### Global Academy of Technology, Bangalore, India
-**Bachelor of Engineering in Computer Science and Engineering**  
-*2021 – 2025*  
-- Current CGPA: 9.45/10
+- 📄 Check my [LinkedIn](https://www.linkedin.com/in/bhavya-bhosale)
 
-### KLE Prerana PU College, Hubli, India
-**PUC**  
-*2019 – 2021*  
-- Percentage: 95.83%
-
-### KLE CBSE English Medium School, Nipani, India
-**10th**  
-*2019*  
-- Percentage: 88.8%
-
-## Projects
-
-### HeartHealth AI: Predicting Heart Disease with Advanced Analytics
-- Developed predictive models using AI to analyze health parameters and assess heart disease risk.
-
-### AI Chatbot
-- Developed an advanced chatbot using LLM techniques, text embeddings, and retrieval-augmented generation (RAG).
-- Integrated with Discord, Telegram, and a web interface using Python, Google Gemma, Faiss, and Streamlit.
-
-### ANALYZER by Revolvers: AI-Driven Sentiment and Emotion Analysis Tool
-- Developed a cutting-edge tool using advanced AI models to analyze sentiment, emotions, and PG-rated content in text, images, and videos.
-
-### AgriAI: Integrated Agricultural Intelligence Suite
-- Implemented machine learning algorithms and web development for crop management and disease detection.
-
-### AI Article Summarizer Website
-- Built with React.js, TypeScript, Redux Toolkit, and Tailwind CSS.
-- Summarizes articles using OpenAI with one click.
-- Includes history saving, copy-to-clipboard, and advanced RTK Query API requests.
-
-### ELearning Website
-- Developed an ELearning platform with user authentication, course management, and virtual classrooms.
-- Utilized HTML, CSS, JavaScript, and Node.js.
-
-### Crafting a Portfolio Website
-- Developed a portfolio website using HTML, CSS, JavaScript, and Python to showcase skills and projects.
-
-## Skills
-
-### Programming Languages
-- Python, C, Java, C++
-
-### Frameworks
-- TensorFlow, Keras, Flask, Express.js, React.js, Streamlit, CMR, Apex
-
-### Database
-- MySQL, PostgreSQL, Firebase, MongoDB
-
-### Technologies
-- GenAI, Data Science, Machine Learning, Artificial Intelligence, Neural Networks, Deep Learning, DevOps, NLP, Blockchain, Data Structure and Algorithms, Cloud Computing (AWS, Docker)
-
-### Tools
-- Git, GitHub, Jupyter Notebooks, VS Code, PyCharm, Sublime Text, REST APIs, Bash, Unix, Linux, IBM Tools, Salesforce Tools
-
-### Web Development
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js, Next.js
-- **Backend:** Node.js, Express.js
-
-### Soft Skills
-- Leadership, Problem-Solving, Communication, Adaptability, Teamwork, Attention to Detail
-
-## Skills
-<p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="css3" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reat" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="60" height="60" />
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhavya-bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya-bhosale" height="30" width="40" /></a>
 </p>
 
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyabhosale&theme=tokyonight)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">Languages and Tools:</h3>
 
-## Achievements & Awards
-- Taekwondo State Level Bronze (2024)
-- Alkimi, Kensaltensi Hackathon 3rd Place (2024)
-- TCS TechBytes Quiz (Represented College, 2023)
-- English Essay Writing National Level (2020)
-- National Level Hackathon Participation (2021)
-- Table Tennis State Level (2018) and College Captain (Represented college in VTU 2021 - 2025)
-- Judo South Zone (2016)
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
 
-## Languages
-- English, Hindi, Marathi, Kannada
+- **Backend:** Node.js, Express.js
 
-## Activities
-- Placement Coordinator of College
-- CSE dept Hackathon Team Lead
-- NSS Candidate
-- Coordinator for various college events
-- Childline India foundation
+- **Database:** MySQL, PostgreSQL, MongoDB
+
+- **Cloud:** AWS, Docker
+
+- **Tools:** Git, GitHub, Jupyter, VS Code, PyCharm
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/bhavyabhosale/bhavyabhosale/output/github-snake.svg)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<em><b>Let's innovate and build the future together!</b> 🚀</em>
