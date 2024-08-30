@@ -80,8 +80,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Commit Snake History SVG](https://github.com/bhavyabhosale/bhavyabhosale/blob/output/github-contribution-grid-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/bhavyabhosale/bhavyabhosale/output/github-contribution-grid-snake.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <em><b>Let's innovate and build the future together!</b> 🚀</em>
