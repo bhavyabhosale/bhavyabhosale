@@ -20,7 +20,6 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="50" height="50" />
-  <!-- Add more icons here for additional skills -->
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -43,21 +42,21 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, TailwindCSS
+- **Programming Languages:** Python, C, Java, C++
 
-- **Backend:** Node.js, Express.js, Flask
+- **Frameworks:** TensorFlow, Keras, Flask, Express.js, React.js, Streamlit, CMR, Apex
 
-- **Database:** MySQL, PostgreSQL, MongoDB, Firebase
+- **Database:** MySQL, PostgreSQL, Firebase, MongoDB
 
-- **Cloud:** AWS, Docker, Google Cloud Platform (GCP)
+- **Technologies:** GenAI, Data Science, Machine Learning, Artificial Intelligence, Neural Networks, Deep Learning, DevOps, NLP, Blockchain, Data Structure and Algorithms, Cloud Computing (AWS, Docker)
 
-- **DevOps:** Jenkins, Kubernetes
+- **Tools:** Git, GitHub, Jupyter Notebooks, VS Code, PyCharm, Sublime Text, REST APIs, Bash, Unix, Linux, IBM Tools, Salesforce Tools
 
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Keras
+- **Web Development:** Frontend (HTML, CSS, JavaScript, Bootstrap, React.js, Next.js), Backend (Node.js, Express.js)
 
-- **Tools:** Git, GitHub, Jupyter, VS Code, PyCharm, Postman
+- **Soft Skills:** Leadership, Problem-Solving, Communication, Adaptability, Teamwork, Attention to Detail
 
 <br/>
 
