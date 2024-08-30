@@ -84,6 +84,10 @@
 
 
 
+
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
@@ -92,3 +96,8 @@
 
 
 <em><b>Let's innovate and build the future together!</b> 🚀</em>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavyabhosale&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyabhosale" />
+</p>
+
