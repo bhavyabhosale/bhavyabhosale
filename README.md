@@ -20,6 +20,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="50" height="50" />
+  <!-- Add more icons here for additional skills -->
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -44,21 +45,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, TailwindCSS
 
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, Flask
 
-- **Database:** MySQL, PostgreSQL, MongoDB
+- **Database:** MySQL, PostgreSQL, MongoDB, Firebase
 
-- **Cloud:** AWS, Docker
+- **Cloud:** AWS, Docker, Google Cloud Platform (GCP)
 
-- **Tools:** Git, GitHub, Jupyter, VS Code, PyCharm
+- **DevOps:** Jenkins, Kubernetes
+
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Keras
+
+- **Tools:** Git, GitHub, Jupyter, VS Code, PyCharm, Postman
 
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/bhavyabhosale/bhavyabhosale/output/github-snake.svg)
+![Commit Snake History SVG](https://github.com/bhavyabhosale/bhavyabhosale/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
