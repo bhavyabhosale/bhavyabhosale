@@ -5,9 +5,11 @@
 <p align="center">A passionate software engineer with expertise in Full Stack Development, Machine Learning, and AI. I enjoy working on innovative projects that impact user experiences and drive solutions with a blend of technology and creativity.</p>
 
 <div align="center">
+  <!-- Programming Languages -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
 </div>
@@ -15,12 +17,27 @@
 <br>
 
 <div align="center">
+  <!-- Databases and Tools -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="50" height="50" />
 </div>
+
+<br>
+
+<div align="center">
+  <!-- Frameworks and Technologies -->
+  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/keras-icon.svg" alt="Keras" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/salesforce-icon.svg" alt="Salesforce" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/unix-icon.svg" alt="Unix" width="50" height="50" />
+</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -28,7 +45,7 @@
 
 - 🌱 Learning **Advanced AI techniques and Cloud Computing**
 
-- 💬 Ask me about **Python, React, Machine Learning, and DevOps**
+- 💬 Ask me about **Python, Web Development, Machine Learning, and DevOps**
 
 - 📫 Reach me at **bhavyabhosale1815@gmail.com**
 
